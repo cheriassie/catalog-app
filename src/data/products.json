@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "releaseYear": 2020,
+      "screenSize": 6.1,
+      "countryOfOrigin": "Китай",
+      "memory": 128,
+      "refreshRate": 60,
+      "nfc": false,
+      "esim": true,
+      "wirelessCharging": false,
+      "price": 81990
+    },
+    {
+      "id": 2,
+      "brand": "Xiaomi",
+      "model": "Mi 11 Lite",
+      "releaseYear": 2021,
+      "screenSize": 6.55,
+      "countryOfOrigin": "Китай",
+      "memory": 128,
+      "refreshRate": 90,
+      "nfc": true,
+      "esim": true,
+      "wirelessCharging": true,
+      "price": 27490
+    },
+    {
+      "id": 3,
+      "brand": "Samsung",
+      "model": "Galaxy A72",
+      "releaseYear": 2021,
+      "screenSize": 6.7,
+      "countryOfOrigin": "Вьетнам",
+      "memory": 128,
+      "refreshRate": 90,
+      "nfc": true,
+      "esim": false,
+      "wirelessCharging": true,
+      "price": 32890
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "model": "iPhone Xr",
+      "releaseYear": 2018,
+      "screenSize": 6.1,
+      "countryOfOrigin": "Китай",
+      "memory": 128,
+      "refreshRate": 60,
+      "nfc": false,
+      "esim": true,
+      "wirelessCharging": true,
+      "price": 58990
+    },
+    {
+      "id": 5,
+      "brand": "Realme",
+      "model": "8 Pro",
+      "releaseYear": 2021,
+      "screenSize": 6.4,
+      "countryOfOrigin": "Китай",
+      "memory": 128,
+      "refreshRate": 90,
+      "nfc": true,
+      "esim": false,
+      "wirelessCharging": false,
+      "price": 18990
+    }
+  ]
+  
