@@ -1,13 +1,13 @@
 import React from 'react';
-import './Header.scss';
+import styles from './Header.module.scss'
 
 const Header: React.FC = () => {
   return (
-    <header className="header">
-      <div className="logo">
+    <header className={styles.header}>
+      <div>
         <h1>Каталог</h1>
       </div>
-      <nav className="nav">
+      <nav className={styles.nav}>
         <button className="compare-button">Сравнение</button>
         <button className="profile-button">Личный кабинет</button>
       </nav>
