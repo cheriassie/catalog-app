@@ -1,4 +1,4 @@
-export interface ProductTypes {
+export interface PhoneType {
   id: number;
   brand: string;
   model: string;
