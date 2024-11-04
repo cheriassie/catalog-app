@@ -2,9 +2,7 @@
 const config = [
   {
     languageOptions: {
-      globals: {
-
-      },
+      globals: {},
       parserOptions: {
         ecmaVersion: 12,
       },
